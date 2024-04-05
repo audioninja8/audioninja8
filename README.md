@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @audioninja8
-- 👀 I’m interested in computer programming, music production, muay thai and skateboarding
+- 👀 I’m interested in Computer programming, Music production, Muay Thai and Skateboarding
 - 🌱 I’m currently learning C++, Java, Javascript, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -- alex.schnell18@gmail.com
