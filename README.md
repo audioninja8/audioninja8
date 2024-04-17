@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @audioninja8
+- 👋 Hi, I’m Alex!
 - 👀 I’m interested in Computer programming, Music production, Muay Thai and Skateboarding
 - 🌱 I’m currently learning C++, Java, Javascript, Python
 - 💞️ I’m looking to collaborate on ...
