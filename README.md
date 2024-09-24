@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in Computer programming, Music production, Muay Thai and Skateboarding
-- 🌱 I’m currently learning Java, Python and PHP
+- 🌱 I’m currently learning Java, PHP and JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -- alex.schnell18@gmail.com
 - 😄 Pronouns: he/him
